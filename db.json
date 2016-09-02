@@ -1,0 +1,19 @@
+{
+  "todos":[
+    {
+      "id": 1,
+      "title": "Wake up",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Write code",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Eat",
+      "completed": false
+    }
+  ]
+}
